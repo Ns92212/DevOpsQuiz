@@ -1,0 +1,6 @@
+.git
+build/
+lib/
+data/
+*.zip
+Jenkinsfile
