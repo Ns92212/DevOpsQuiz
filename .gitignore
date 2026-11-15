@@ -1,0 +1,18 @@
+# Java compilé et répertoires de build
+*.class
+build/
+out/
+
+# Journaux
+*.log
+logs/
+
+# Données locales (scores) et dépendances téléchargées
+data/
+lib/*.jar
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
